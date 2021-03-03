@@ -1,3 +1,12 @@
+# Connor Rhodes's dmenu
+
+This is my personal fork of dmenu patched for:
+- adding a space after tab completion *(for adding arguments to scripts)*
+- fuzzy searching
+
+
+## original Readme
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
